@@ -1,0 +1,30 @@
+.navbar, .navbar1, .navbar2 {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    color: white;
+    box-shadow: 2px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    margin-bottom: 50px;
+}
+.pages div {
+    display: inline-block;
+    margin-left: 15px;
+}
+ .button {
+  background-color: aqua;
+  color: rgb(26, 24, 24);
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
